@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ton-nom-dans-mon-cur/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Ton Nom Dans Mon Cœur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ton-nom-dans-mon-cur/) |
+| **Get License** | [Obtain a Music License for Ton Nom Dans Mon Cœur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ton-nom-dans-mon-cur/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> J'ai ton parfum sur ma veste, l'ambiance est trop chic
+> Sous les néons de Paris, t'es ma seule logique
+> Monte dans le gamos, let's drive through the night
+> Ton nom dans mon cœur, baby, you shine so bright
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
