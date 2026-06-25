@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ton-nom-dans-mon-cur/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Ton Nom Dans Mon Cœur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ton-nom-dans-mon-cur/) |
+| **Get License** | [Music Rights & Licensing for Ton Nom Dans Mon Cœur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ton-nom-dans-mon-cur/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `62caca4c283eb7ffa1cc507e76b26be1705eda22dab0c5485d7cdef6adcd01e6` |
 | **Timestamp** | June 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

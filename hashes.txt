@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ton Nom Dans Mon Cœur
+
+This log tracks the cryptographic history and versioning for the song **Ton Nom Dans Mon Cœur** (ton-nom-dans-mon-cur).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-25T13:19:01.729935 | `v1` | `62caca4c283eb7ffa1cc507e76b26be1705eda22dab0c5485d7cdef6adcd01e6` | `3db970c1b2d8233d650d9079e5a776a971803c19147409ce03bef75160daf256` | `2026-06-25_ton-nom-dans-mon-cur-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
